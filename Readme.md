@@ -1,4 +1,4 @@
-PhraseHash Web App
+HashPhrase Web App
 Overview
 This is a custom-built web application that generates a SHA-256 hash from a user-entered phrase, displayed in Base64 format. Built with HTML, Bootstrap, and JavaScript using the Web Crypto API, it offers a simple way to explore cryptographic hashing.
 Note: This app creates hashes, not reverses them. Reversing cryptographic hashes like SHA-256 is not possible.
