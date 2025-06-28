@@ -1,5 +1,6 @@
-
 # 🔐 HashPhrase Web App
+
+![HashPhrase Screenshot](images/Hashphrase.png)
 
 A sleek and simple web app that converts any phrase into a **SHA-256 hash**, beautifully displayed in **Base64 format**. Great for learning how cryptographic hashing works — all right in your browser!
 
